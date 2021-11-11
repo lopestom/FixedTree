@@ -32,4 +32,4 @@ Second clone this twrp tree
 
 Now build
 
-```export ALLOW_MISSING_DEPENDENCIES=true; . build/envsetup.sh; lunch omni_Wasp-userdebug; mka bootimage```
+```export ALLOW_MISSING_DEPENDENCIES=true; . build/envsetup.sh; lunch omni_Wasp-userdebug; mka recoveryimage```

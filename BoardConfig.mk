@@ -134,5 +134,5 @@ TW_DEFAULT_BRIGHTNESS := 80
 #The End!
 #
 #
-#Thank you lopestorm for the tree love u lol
+#Thank you lopestom for the tree love u lol
 

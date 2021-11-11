@@ -11,7 +11,6 @@ https://github.com/lopestom
 **UPDATE: IT BUILDS**
 
 **WHAT ISNT WORKING:
-SOME PARTITION MOUNTS
 MTP**
 
 This trees android version?

@@ -19,7 +19,9 @@ PRODUCT_DEFAULT_PROPERTY_OVERRIDES += \
     ro.secure=1 \
     ro.adb.secure=0 \
     ro.allow.mock.location=0
-    
-PRODUCT_BUILD_PROP_OVERRIDES += \
-    BUILD_FINGERPRINT := Nokia/Wasp_00WW/WSP_sprout:9/PPR1.180610.011/00WW_1_630:user/release-keys \
-    PRIVATE_BUILD_DESC="full_wasp-user 9 PPR1.180610.011 4210 release-keys"
+
+#Below Tagged Because GitHub WorkFlows Failed Because Of The Values
+
+#PRODUCT_BUILD_PROP_OVERRIDES += \
+#    BUILD_FINGERPRINT := Nokia/Wasp_00WW/WSP_sprout:9/PPR1.180610.011/00WW_1_630:user/release-keys \
+#    PRIVATE_BUILD_DESC="full_wasp-user 9 PPR1.180610.011 4210 release-keys"

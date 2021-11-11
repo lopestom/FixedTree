@@ -12,7 +12,7 @@ https://github.com/lopestom
 
 **WHAT ISNT WORKING:
 SOME PARTITION MOUNTS
-MTP***
+MTP**
 
 This trees android version?
 

@@ -6,12 +6,7 @@ Credits: Lopestom for the oukitel wp5 twrp tree i based this off
 
 https://github.com/lopestom
 
-***UNTESTED AS OF SPEAKING WILL BE TESTING WHEN IT BUILDS THIS WILL BE UIPDATED WHEN I HAVE TESTED IT***
-
-**UPDATE: IT BUILDS**
-
-**WHAT ISNT WORKING:
-MTP**
+***UNTESTED AS OF SPEAKING WILL BE TESTING WHEN IT BUILDS THIS WILL BE UPDATED WHEN I HAVE TESTED IT***
 
 This trees android version?
 

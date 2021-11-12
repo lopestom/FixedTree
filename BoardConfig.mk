@@ -71,7 +71,8 @@ DEVICE_RESOLUTION := 720x1520
 DEVICE_SCREEN_WIDTH := 720
 DEVICE_SCREEN_HEIGHT := 1520
 RECOVERY_GRAPHICS_USE_LINELENGTH := true
-TARGET_USE_CUSTOM_LUN_FILE_PATH := /sys/devices/platform/mt_usb/musb-hdrc.0.auto/gadget/lun%d/file
+#below tagged cause mtp didnt work anyways
+#TARGET_USE_CUSTOM_LUN_FILE_PATH := /sys/devices/platform/mt_usb/musb-hdrc.0.auto/gadget/lun%d/file
 TARGET_RECOVERY_LCD_BACKLIGHT_PATH := "/sys/class/leds/lcd-backlight/brightness\"
 TARGET_DISABLE_TRIPLE_BUFFERING := false
 TW_THEME := portrait_hdpi
